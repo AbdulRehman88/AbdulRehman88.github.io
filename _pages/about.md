@@ -37,12 +37,10 @@ including the 6th International Conference on Artificial Intelligence in Informa
 the 11th International Conference on Orange Technology & the 19th International Conference on Information Hiding
 and Multimedia Signal Processing (ICOT-2023 & IIHMSP-2023), the 5th International Conference on AI in Information
 and Communication (ICAIIC 2023), International Conference on Smart Computing and Applications (ICSCA 2023), and the
-3rd International Conference on Artificial Intelligence and Machine Learning (CAIML 2022). Here is my [CV]()
-
-
+3rd International Conference on Artificial Intelligence and Machine Learning (CAIML 2022). Here is my [CV](/files
+/Resume_Abdul_Rehman.pdf)
 
 ---
-
 
 # News
 - *2024.12*: We submitted our Project [**Wellbeing Companion**](https://youtu.be/VNffDEyngYo?si=9QT0eceQMm5PEvpR) at Lokha`i International Healthcare Heackathon organised by Lablab.AI.  
@@ -113,18 +111,31 @@ and Communication (ICAIIC 2023), International Conference on Smart Computing and
 
 - **Abdul Rehman**, Sadia Din, Anand Paul, Waqar Ahmad, An algorithm for alleviating the effect of hotspot on throughput in wireless sensor networks. [PDF](https://www.researchgate.net/profile/Abdul-Rehman-10/publication/321116531_An_Algorithm_for_Alleviating_the_Effect_of_Hotspot_on_Throughput_in_Wireless_Sensor_Networks/links/5a7374ab0f7e9b20d48fe82a/An-Algorithm-for-Alleviating-the-Effect-of-Hotspot-on-Throughput-in-Wireless-Sensor-Networks.pdf)
 
-# Preprints
-- Coming Soon...
+# Experience
+- *Mar, 2022 - to date*, **Postdoctoral Research Associate** in Hyper-connectivity Convergence Technology Research Center, Kyungpook National University, Daegu, South Korea.
+- *Nov, 2021 - Feb, 2022*, **Postdoctoral Research Associate** in Software Technology Research Center, Kyungpook National University, Daegu, South Korea.
+- *Mar 2021 - Aug, 2021*, **Assistant Professor** University of Central Punjab, Lahore, Pakistan
+- *Mar, 2017 - Dec, 2020*, **Research Assistant** at Connected Computing and Media Processing Lab, Kyungpook National University, Daegu, South Korea.
+- *Sep, 2016 - Feb, 2017*, Teaching Assistant to Porf. Anand Paul at School of Computer Science and Engineering,Kyungpook National University, Daegu, South Korea.
 
-# Internships (Hybrid)
-- *Jan. 2023 - Oct. 2023*, Communicationa and Sensing Research Lab, Scotland, UK.
-- *Sep. 2021 - Nov. 2023*, Software Technology Research Centre, Kyungpook National University, South Korea.
+# Skills
+- **Programming:** C/C++, Python, MATLAB, R
+- **Simulators:** Gephi, NetworkX, Cytoscape, Nodexl
+- **Operating Systems** Mac OS, Linux
+- **Tools:** Visual Studio, PyCharm, SIMULINK, etc
+- **Misc:** Sigmaplot, Origin-Pro, Latex, Mendeley, Endnote, Zetero etc
 
 # Education
-- *Mar. 2025 - to date*, Ph.D., Looking a funded opportunity at South Korea, USA, Europe, Australia, China.
-- *Sept. 2021 - Jun. 2023*, Master Degree, Data Science, Air University, Islamabad.
-- *Sept. 2013 - Sep. 2014*, Bechelor Degree in Education, Air University, Islamabad.
-- *Sept. 2008 - Jun. 2012*, Bacheler Degree, Mathematics, International Islamic University, Islamabad.
+- *March, 2015 - Feb. 2021*, MS Combined Ph.D. in Computer Science and Engineering, Kyungpook National University, Daegu, South Korea.
+  - **Dissertation Title:** “A Class-Based Information Search Algorithm in Individual’s Small World of Social Internet of Things”.
+  - **Advisor:** Prof. Dr. Anand Paul
+- *Sep. 2010 - Feb. 2013*, Master of Science (M.Sc) in Mathematics, International Islamic University, Islamabad, Pakistan
+
+# Awards
+- Outstanding Research Achievement Award (CSE-RA-2019-10).
+- Best Presenter Award ICEET’20, Lahore, Punjab, Pakistan (Feb. 22, 2020).
+- KNU International Graduate scholarship (KINGS) for Doctoral Program, Mar. 2015- Feb. 2019.
+- Brain Korea 21 plus (BK21+) Scholarship, Mar. 2015 - Feb. 2021.
 
 # Professional Acitivities-International Journal, Conferences & Workshops Chairing Services:
 
