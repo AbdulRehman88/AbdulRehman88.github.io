@@ -20,11 +20,24 @@ redirect_from:
 
 Hi there!
 
-Dr. Abdul Rehman works as a Postdoctoral Research Associate at the Hyper-Connectivity Convergence Technology Research Center at Kyungpook National University, in Daegu, South Korea. He also served as an Assistant Professor at the University of Central Punjab, Lahore, Pakistan. His career includes several academic experiences. He received his Bachelor’s degree in Mathematics from the International Islamic University, Islamabad, Pakistan in 2013. He completed his Integrated Ph.D. in Computer Science and Engineering at Kyungpook National University in Daegu, South Korea. His research interests include the Internet of Things, Social Internet of Things, Industrial Social Internet of Things, Social Networking, Small World Problems, Smart Cities, Smart Transportation Systems, Data Analysis, Mathematical modeling for decision making, and Brain mapping.
-
-Dr. Abdul Rehman received the KINGS Scholarship award for Integrated Ph.D. study from Kyungpook National University. He also received an "Outstanding Researcher Award" from the School of Computer Science and Engineering, Kyungpook National University.
-
-He serves as a guest editor in various international journals. He is the track chair of a special session for the ICSCA 2022 Conference Workshop/Session, and also served as a general chair for the 8th International Conference on Orange Technology (ICOT 2020).
+Dr. Abdul Rehman is a Postdoctoral Research Associate at the Hyper-Connectivity Convergence Technology Research
+Center at Kyungpook National University (KNU) in Daegu, South Korea. He also served as an Assistant Professor at
+the University of Central Punjab, Lahore, Pakistan. His career includes several academic experiences. He received his
+bachelor’s degree in mathematics from the International Islamic University in Islamabad, Pakistan. He completed his
+Integrated Ph.D. in Computer Science and Engineering at KNU, South Korea. His research interests encompass a wide
+range of topics in the field of computer science and engineering. Specifically, he focuses on Deep Learning, Machine
+Learning, and Data Science, exploring the applications of these techniques in various domains. His expertise extends to
+Computer Vision, (S)IoT, and Data Analysis. Dr. Rehman is also interested in Complex Network Navigation, Mathematical
+Modeling, and Big Data Analytics, aiming to develop innovative solutions to complex problems in these areas. He was
+honored with the KINGS Scholarship for his Integrated Ph.D. program at KNU and was further recognized with the
+prestigious “Outstanding Researcher” Award from the School of Computer Science and Engineering. Dr. Abdul Rehman
+is a guest editor and Editorial Board member for various international journals, including Digital Technologies Research
+and Applications. Additionally, Dr. Rehman has contributed to numerous international conferences as a session chair,
+including the 6th International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2024),
+the 11th International Conference on Orange Technology & the 19th International Conference on Information Hiding
+and Multimedia Signal Processing (ICOT-2023 & IIHMSP-2023), the 5th International Conference on AI in Information
+and Communication (ICAIIC 2023), International Conference on Smart Computing and Applications (ICSCA 2023), and the
+3rd International Conference on Artificial Intelligence and Machine Learning (CAIML 2022). Here is my [CV]()
 
 
 
