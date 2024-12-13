@@ -6,11 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tahir Sher Bhatti"
+title                    : "Abdul Rehman"
 description              : "tahir.sher (at) students.au.edu.pk"
-repository               : "TahirSher/TahirSher.github.io"
+repository               : "AbdulRehman88/AbdulRehman88.github.io
+"
 google_scholar_stats_use_cdn : false
-updateon                 : "02/12/2024"
+updateon                 : "13/12/2024"
 
 # google analytics
 #google_analytics_id      : "UA-181014314-1" # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,10 +23,10 @@ updateon                 : "02/12/2024"
 # <meta name="google-site-verification" content="MptRfAfIhA6nBsMNUX_ITKNsZMNsUEkXnx71kD74tqM" />
 # Site Author
 author:
-  name             : "Tahir Sher Bhatti"
-  avatar           : "images/Tahir sher Pic.jpg"
-  bio              : "Lecturer<br>Air University"
-  location         : "Islamabad, E-9"
+  name             : "Abdul Rehman"
+  avatar           : "images/A.jpeg"
+  bio              : "Post Doctoral Researcher<br>Kyngpook National University"
+  location         : "Dague, South Korea"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=eIIFkLAAAAAJ"
@@ -38,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : TahirSher
+  github           : AbdulRehman88
   google_plus      :
   keybase          :
   instagram        :
