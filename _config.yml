@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Abdul Rehman"
-description              : "tahir.sher (at) students.au.edu.pk"
+title                    : "Dr. Abdul Rehman"
+description              : "a.rehman.iiui (at) gmail.com"
 repository               : "AbdulRehman88/AbdulRehman88.github.io
 "
 google_scholar_stats_use_cdn : false
@@ -25,12 +25,12 @@ updateon                 : "13/12/2024"
 author:
   name             : "Abdul Rehman"
   avatar           : "images/A.jpeg"
-  bio              : "Post Doctoral Researcher<br>Kyngpook National University"
+  bio              : "Post Doctoral Researcher<br>Kyungpook National University"
   location         : "Dague, South Korea"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=eIIFkLAAAAAJ"
-  email            : #"tahir2011.iiui@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=2cXG0WQAAAAJ&hl=en"
+  email            : "a.rehman.iiui@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tahir-sher-77462322b"
+  linkedin         : #"tahir-sher-77462322b"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
