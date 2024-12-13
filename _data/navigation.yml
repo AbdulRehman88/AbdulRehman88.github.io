@@ -7,7 +7,7 @@ main:
     url: "/#Reserach Interests"
 
   - title: "Journal Publications"
-    url: "/#publications"
+    url: "/publications"
 
   - title: "Teaching"
     url: "/teaching.html"
