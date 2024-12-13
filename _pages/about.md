@@ -72,8 +72,8 @@ and Communication (ICAIIC 2023), International Conference on Smart Computing and
 - *Sep. 2010 - Feb. 2013*, Master of Science (M.Sc) in Mathematics, International Islamic University, Islamabad, Pakistan
 
 # Awards
-- Outstanding Research Achievement Award (CSE-RA-2019-10).
-- Best Presenter Award ICEET’20, Lahore, Punjab, Pakistan (Feb. 22, 2020).
+- Outstanding Research Achievement Award (CSE-RA-2019-10) [PDF](/files/Best Researcher Certificate.pdf)
+- Best Presenter Award ICEET’20, Lahore, Punjab, Pakistan (Feb. 22, 2020) [PDF](/files/Certificate of Appreciation.jpeg.pdf)
 - KNU International Graduate scholarship (KINGS) for Doctoral Program, Mar. 2015- Feb. 2019.
 - Brain Korea 21 plus (BK21+) Scholarship, Mar. 2015 - Feb. 2021.
 
