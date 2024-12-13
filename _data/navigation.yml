@@ -7,7 +7,7 @@ main:
     url: "/#Reserach Interests"
 
   - title: "Journal Publications"
-    url: "/group.html"
+    url: "/publications.html"
 
   - title: "Groups"
     url: "/group.html"
