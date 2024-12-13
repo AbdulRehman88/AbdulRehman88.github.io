@@ -6,15 +6,15 @@ main:
   - title: "Reserach Interests"
     url: "/#Reserach Interests"
 
+  - title: "Journal Publications"
+    url: "/group.html"
+
   - title: "Groups"
     url: "/group.html"
 
   - title: "Teaching"
     url: "/teaching.html"
 
-  - title: "Journal Publications"
-    url: "/group.html"
- 
   - title: "Awards & Honors"
     url: "/files/Best Researcher Certificate.pdf"
 
