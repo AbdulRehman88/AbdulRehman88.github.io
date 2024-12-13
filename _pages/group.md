@@ -26,7 +26,7 @@ I am seeking self-motivated students at the Computational Linguistics Research G
 
 ---
 
-<span style="color:red">[Prospective Students]</span> I'm seeking multiple self-motivated students (BS, Internship) for Spring & Fall 2025. Please email me at <a href="mailto:a.rehman.iiui@gmail.com" target="_blank">tahir2011.iiui@gmail.com</a>.
+<span style="color:red">[Prospective Students]</span> I'm seeking multiple self-motivated students (BS, Internship) for Spring & Fall 2025. Please email me at <a href="mailto:a.rehman.iiui@gmail.com" target="_blank">a.rehman.iiui@gmail.com</a>.
   - Attach your CV and transcripts, highlighting your Grades in Educational Background/ranking and any publications (if applicable).
   - I will carefully read every email but may not be able to reply to all of them.
   - What I expect from you: 
