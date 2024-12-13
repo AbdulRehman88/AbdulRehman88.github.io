@@ -6,8 +6,8 @@ main:
   - title: "Reserach Interests"
     url: "/#Reserach Interests"
 
-  - title: "Journal Publications"
-    url: "/publications"
+  - title: "Groups"
+    url: "/group.html"
 
   - title: "Teaching"
     url: "/teaching.html"
