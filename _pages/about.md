@@ -42,18 +42,8 @@ and Communication (ICAIIC 2023), International Conference on Smart Computing and
 
 ---
 
-# News
-- *2024.12*: We submitted our Project [**Wellbeing Companion**](https://youtu.be/VNffDEyngYo?si=9QT0eceQMm5PEvpR) at Lokha`i International Healthcare Heackathon organised by Lablab.AI.  
-- *2024.12*: I am joyful after receiving [**Top Generative AI Application Developer Award**](https://credsverse.com/credentials/04f859e0-e1ad-4163-9bfd-bdb2fed697bc) from Pak Angels, Silicon Valley, California, USA!
-- *2024.12*: Our research article Graph Based COVID-19 Detection Using Conditional Generative Adversarial Network accepted at IEEE Access!
-- *2024.12*: We submitted two projects and won **(Second (Legal Consultant) & Sixth (Career Compass)** top positions in [Pak Angels Generative AI Heackathons](https://www.linkedin.com/posts/pakangels_pakangels-aspirepakistan-icodeguru-activity-7270723460388048896-Aoga/?utm_source=share&utm_medium=member_desktop)!
-- *2024.11*: Thrilled to Uplaod my LLM Journey and Projects in Hackathons on [Generative_AI_Enthusiast_Youtube_Channel!](https://www.youtube.com/@Generative_AI_Enthusiast) 
-- *2024.10*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) on HuggingFace Spaces!
-- *2024.09*: Excited to join Air University, Islamabad as a Lecturer!
-- *2021.03*: Academic Auditor and Research Coordinator for Science subjects at FTTI, Islamabad
-- *2017.10*: Privaliged to serve as a Researcher at PAFAA, Risalpur!
-- *2014.10*: Happy to Join School of Aeronautics, PAAK as a Lecturer of Mathematics & Statistics!
-- *2013.09*: Exited to Join College of Education as a Subject Specialist (Mathematics & Statistics), PAF, Peshawar!
+# Research Interests
+- Deep Learning, Machine Learning, Data Science, Computer Vision (S), IoT, Data Analysis, Complex Network Navigation, Mathematical Modeling, Big Data
 
 # Journal Publications
 
