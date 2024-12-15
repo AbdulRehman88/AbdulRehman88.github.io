@@ -91,8 +91,8 @@ and Communication (ICAIIC 2023), International Conference on Smart Computing and
 
 - [**IEEE ACCESS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 - [**Sensors (MDPI)**](https://www.mdpi.com/journal/sensors)
-- [**IEEE Internet of Things journal**]
-- [**IET Wireless Sensor Systems**]
+- **IEEE Internet of Things journal**
+- **IET Wireless Sensor Systems**
  
 ---
-**Tahir Sher Bhatti**
+**Dr. Abdul Rehman**
